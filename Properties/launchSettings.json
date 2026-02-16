@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ViktorProto": {
+      "commandName": "Project",
+      "commandLineArgs": "inputfile c:\\Users\\oysteinf\\Downloads\\100k.txt",
+      "workingDirectory": "Q:\\source\\ViktorProto"
+    }
+  }
+}
